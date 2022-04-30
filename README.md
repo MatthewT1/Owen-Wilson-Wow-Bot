@@ -8,6 +8,8 @@ I saw the [Owen Wilson API](https://owen-wilson-wow-api.herokuapp.com/) on reddi
 
 The bot will respond to any message containing 'wow' with a random video of Owen Wilson saying "Wow". 
 
+https://user-images.githubusercontent.com/5216489/166086208-9a51224a-af9e-44d4-9ee4-7fb07c5bbc06.mp4
+
 ## Getting Started
 
 I followed [this tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) , so its suggested to follow the steps there to make your own bot that runs this code. 
