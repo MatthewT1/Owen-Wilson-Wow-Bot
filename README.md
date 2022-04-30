@@ -1,6 +1,6 @@
 # Owen-Wilson-Wow-Bot
 
-This is a simple Discord bot that uses the Owen Wilson API to reply to messages with a random video. 
+This is a simple Discord bot that uses the Owen Wilson API to reply to Discord messages with a random video. 
 
 ## Description
 
