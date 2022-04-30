@@ -10,6 +10,18 @@ The bot will respond to any message containing 'wow' with a random video of Owen
 
 ## Getting Started
 
+I followed [this tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) , so its suggested to follow the steps there to make your own bot that runs this code. 
+
+After you have a token change this line - 
+
+client.run('')
+
+to 
+
+client.run('YOURTOKEN')
+
+Then just run it with Python - I did this the lazy way with nohup(see [here](https://janakiev.com/blog/python-background/) for details), and I have it running on a cheap VPS. It overwrites the video file each time it grabs one, so space isn't really a concern. 
+
 ### Dependencies
 
 * It should only need requests and discord.py
